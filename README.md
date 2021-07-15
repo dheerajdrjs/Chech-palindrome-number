@@ -1,1 +1,1 @@
-# Chech-palindrome-number
+# Check-palindrome-number
